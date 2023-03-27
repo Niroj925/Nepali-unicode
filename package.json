@@ -1,13 +1,17 @@
 {
   "name": "nepscript",
-  "version": "1.0.2",
+  "version": "1.0.6",
   "description": "nepali-unicode",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Niroj925/Nepali-unicode"
+  },
+  "keywords": ["nepali unicode","nepali text","nepali script","devanagarik","romanized nepali to nepali script","english to nepali text"],
   "author": "Niroj Thapa",
   "license": "ISC"
 }
